@@ -87,14 +87,6 @@ python face_detection.py --image path/to/image.jpg
 
 ---
 
-## 🖼️ Example Output
-
-When the script runs successfully, you’ll see something like this:
-
-![Face Detection Example](https://user-images.githubusercontent.com/placeholder/example-face-detection.png)
-
----
-
 ## 💡 Future Improvements
 
 - Add support for DNN-based face detection models (e.g., OpenCV DNN or Mediapipe).  
